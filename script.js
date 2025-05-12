@@ -11,7 +11,6 @@ function firstWord(str) {
     // Return substring up to first space
     return str.substring(0, spaceIndex);
 }
-}
 
 // Do not change the code below
 
